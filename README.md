@@ -1,4 +1,11 @@
-# kickstart.nvim
+# Personalizations by rvnash
+
+Added the iTerm2 settings that I like and commited to github. Configure iTerm2 to read settings from
+https://raw.githubusercontent.com/rvnash/nvim/refs/heads/master/com.googlecode.iterm2.plist
+
+
+
+# Original documentation from kickstart.nvim
 
 ## Introduction
 
