@@ -2,5 +2,6 @@ tags
 test.sh
 .luarc.json
 nvim
-
+.elixir-tools
+.elixir_ls
 spell/
