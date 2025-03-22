@@ -5,7 +5,7 @@ vim.g.mapleader = ' '
 vim.g.maplocalleader = ' '
 
 -- Open file explorer
-vim.keymap.set('n', '<leader>pv', vim.cmd.Ex, { desc = 'Explorer' })
+vim.keymap.set('n', '<leader>v', vim.cmd.Ex, { desc = 'Explorer' })
 
 -- Clear highlights on search when pressing <Esc> in normal mode
 --  See `:help hlsearch`
